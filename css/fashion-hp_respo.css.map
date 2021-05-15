@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAOA,MAAM,EAAC,SAAS,EAAE,KAAK;EACrB,AAAA,QAAQ,CAAC;IACP,OAAO,EAAE,IAAI;GACd;EACD,AAAA,SAAS,CAAA;IACP,OAAO,EAAE,KAAK;GACf;;;AAEH,MAAM,EAAC,SAAS,EAAE,KAAK;EACrB,AAAA,KAAK,CAAA;IACH,OAAO,EAAE,eAAe;GACzB",
+    "sources": [
+        "../scss/fashion-hp_respo.scss"
+    ],
+    "names": [],
+    "file": "fashion-hp_respo.css"
+}
